@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 10px;
+    padding-top: 10px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+                                
+}
+
+.header {
+    margin-bottom: 0px; 
+    font-size: 40px;
+    color: #EEE;
+}
+
+button{
+    background: none;
+    color:#EEE;
+    border: #EEE solid 1px;
+    border-radius: 3px;
+    padding: 3px 7px;
+    margin: 10px 3px auto 3px;
+}
+
+.game-btn{
+    margin-top: 30px;
+    padding: 8px 15px;
+    font-size: 15px;
+}
